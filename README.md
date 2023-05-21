@@ -85,6 +85,7 @@ Install this project's dependencies using:
   npm install
   ```
 
+Since this project uses Firebase features, you need to supply your corresponding credentials by creating a `.env` file in the root of the app. You can use the provided `.env.example` file as a guide.
 
 ### Usage
 
